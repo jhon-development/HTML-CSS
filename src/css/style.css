@@ -1,12 +1,28 @@
 /* - RESERT - */
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Press+Start+2P&display=swap');
+
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-size: 1rem;
     font-family: 'Nunito', sans-serif;
+}
+
+:root{
+    --black:        #333333;
+    --blue:         #22BAED;
+    --white:        #FFFCF7;
+    --dark-purple:  #2F2933;
+    --light-purple: #655975;
+
+    --blue1:      #0d1b2a;
+    --blue2:      #1b263b;
+    --blue3:      #415a77;
+    --blue4:      #778da9;
+    --light-gray: #e0e1dd;
 }
 
 /* - END RESERT - /
